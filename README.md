@@ -28,9 +28,6 @@ O dashboard é dividido em 4 visões principais:
 
 ## 🖼️ Visualização do Dashboard
 
-### 1. Visão do Cliente (Demografia e Perfil)
-## 🖼️ Visualização do Dashboard
-
 ### 1. Visão do Cliente
 ![Visão do Cliente](./Imagens/img01-visao-cliente.png)
 
@@ -41,17 +38,4 @@ O dashboard é dividido em 4 visões principais:
 ![Performance das Campanhas](./Imagens/img03-performance.png)
 
 ### 4. Padrões Geográficos
-![Padrões Geográficos](./Imagens/img04-geografica.png)
-*Análise de escolaridade, estado civil e distribuição de renda anual (Com e sem filhos).*
-
-### 2. Comportamento de Compra
-![Comportamento de Compra](./Imagen/02-comportamento.png)
-*Análise de volume de compras por canal (Web, Loja e Catálogo).*
-
-### 3. Performance das Campanhas
-![Performance das Campanhas](./Imagen/03-performance.png)
-*Indicadores de conversão e adesão às campanhas de marketing realizadas.*
-
-### 4. Padrões Geográficos
-![Padrões Geográficos](./Imagen/04-venda.png)
-*Distribuição global de consumo e presença de mercado por país.*
+![Padrões Vendas Por Países](./Imagens/img04-venda.png)
