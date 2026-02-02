@@ -6,7 +6,7 @@ Este projeto consiste em uma análise exploratória e estratégica de dados de m
 O objetivo foi transformar dados brutos de clientes (demográficos, comportamento de compra e resposta a campanhas) em insights acionáveis para o time de tomada de decisão.
 
 O dashboard é dividido em 4 visões principais:
-1. **Visão do Cliente:** Perfil demográfico (idade, escolaridade, renda).
+1. **Visão do Cliente:** Perfil demográfico (idade, escolaridade, renda, filhos, adolescentes).
 2. **Comportamento de Compra:** Canais preferidos (web, loja, catálogo) e frequência.
 3. **Performance das Campanhas:** Taxas de conversão e aceitação das ofertas.
 4. **Padrões Geográficos:** Análise de consumo por país.
@@ -25,3 +25,21 @@ O dashboard é dividido em 4 visões principais:
 1. Clone este repositório.
 2. Certifique-se de ter o **Power BI Desktop** instalado.
 3. Abra o arquivo `Projeto01.pbix` na pasta `/projeto`.
+
+## 🖼️ Visualização do Dashboard
+
+### 1. Visão do Cliente (Demografia e Perfil)
+![Visão do Cliente](./img/01-visao-cliente.png)
+*Análise de escolaridade, estado civil e distribuição de renda anual (Com e sem filhos).*
+
+### 2. Comportamento de Compra
+![Comportamento de Compra](./img/02-comportamento.png)
+*Análise de volume de compras por canal (Web, Loja e Catálogo).*
+
+### 3. Performance das Campanhas
+![Performance das Campanhas](./img/03-performance.png)
+*Indicadores de conversão e adesão às campanhas de marketing realizadas.*
+
+### 4. Padrões Geográficos
+![Padrões Geográficos](./img/04-venda.png)
+*Distribuição global de consumo e presença de mercado por país.*
